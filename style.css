@@ -25,7 +25,7 @@ h1{
 #neptune{
     width: 66px;
     height: 66px;
-    margin: 120px;
+    margin: 143px;
     z-index: 1000;
     animation: spin-right 8s linear infinite;
     -webkit-animation:spin-right 8s linear infinite;
@@ -47,14 +47,14 @@ h1{
     
 
   #neptune-label{
-        bottom:620px; 
+        bottom:692px; 
     }
 
 /*=============================== URANUS ==============================*/
 #uranus{
     width: 66px;
     height: 66px;
-    margin: 143px;
+    margin: 120px;
     z-index: 1000;
     animation: spin-right 8s linear infinite;
     -webkit-animation:spin-right 8s linear infinite;
@@ -76,7 +76,7 @@ h1{
     
 
   #uranus-label{
-        bottom:692px; 
+        bottom:620px; 
     }   
 
 /*=============================== SATURN ==============================*/
